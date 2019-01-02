@@ -1,4 +1,4 @@
-# flutter_app
+# MovieTime
 
 A new Flutter application. It shows Movie list with different Categories . [TMDb](https://www.themoviedb.org/) database has been used .
 
