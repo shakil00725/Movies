@@ -2,7 +2,7 @@
 
 A new Flutter application. It shows Movie list with different Categories . [TMDb](https://www.themoviedb.org/) database has been used .
 
-Google play Store Link : https://play.google.com/store/apps/details?id=com.zero.movieflex&fbclid=IwAR2gS4Ii1eZAYqBqigU7_3Cn4uG4zi37yG3WBkinzcs3CSprrTUj9ynu4as
+Google play Store Link : [MovieFlex](https://play.google.com/store/apps/details?id=com.zero.movieflex&fbclid=IwAR2gS4Ii1eZAYqBqigU7_3Cn4uG4zi37yG3WBkinzcs3CSprrTUj9ynu4as)
 
 ![](scr/49143086_369109910542827_6151804330916708352_n.png)
 ![](scr/49203178_272608650079169_2783605739472551936_n.png)
